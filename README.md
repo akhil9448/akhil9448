@@ -2,9 +2,6 @@
 <h3 align="center">A passionate in Building the Future with Data: Unlocking Insights, Solving Problems, and Driving Innovation"</h3>
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingisetty47764&label=Profile%20views&color=0e75b6&style=flat" alt="lingisetty47764" /> </p>
-
-
 - 🔭 I’m currently working on **Building a basic chatbot using NLTK and spacy**
 
 - 🌱 I’m currently learning **LLM,Promt Engineering**
@@ -13,7 +10,7 @@
 
 - 🤝 I’m looking for help with **NLP(Natural language Processing)**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/sriharilingisetty934](https://www.datascienceportfol.io/sriharilingisetty934)
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/akhilkumariam]
 
 - 💬 Ask me about **Data Science,Machine Learning Engineering**
 
